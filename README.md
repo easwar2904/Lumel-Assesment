@@ -102,4 +102,3 @@ CREATE TABLE orderdetails (
 
 ---
 
-Let me know if you'd like me to turn this into a downloadable `.md` file or add other sections (e.g., CSV loading, API usage, analysis features).
