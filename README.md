@@ -1,4 +1,3 @@
-Here’s a cleaner and easier-to-read version of your README file, styled for clarity, structure, and readability using proper markdown formatting and sectioning:
 
 ---
 
