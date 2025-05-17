@@ -1,5 +1,17 @@
 # Lumel Assesment
 
+
+Step 1 :Create the new project using Console Application Template using (.Net 8 version)
+Step 2 : Navigate to tools --> Nuget Package Manager --> Package manager console
+Step 3 : Run the following Comments 
+dotnet add package CsvHelper
+dotnet add package Microsoft.EntityFrameworkCore --version 7.0.15
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 7.0.15
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 7.0.15
+dotnet add package Pomelo.EntityFrameworkCore.MySql --version 7.0.0
+Step 4 : Run the following tables in your databse
+
+
 --------------------------MYSql scripts -------------------------------------------------
 
 CREATE TABLE customers(
