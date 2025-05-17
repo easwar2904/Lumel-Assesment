@@ -1,7 +1,6 @@
 # Lumel Assesment
 
-
-// MYSql scripts 
+--------------------------MYSql scripts -------------------------------------------------
 
 CREATE TABLE customers(
 Id INT NOT NULL AUTO_INCREMENT,
@@ -55,3 +54,4 @@ CREATE TABLE products(
   PRIMARY KEY (Id),
   UNIQUE KEY unique_ProductId(ProductId)
 );
+-------------------------------------------------------------------------------------------------------------------
